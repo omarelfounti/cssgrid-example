@@ -1,1 +1,1 @@
-Aqui teneis un ejmplo de como agrupar grupos de secciones. 
+Aqui teneis ejemplos de como agrupar secciones en diferente dsipositivos.
